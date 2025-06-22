@@ -19,7 +19,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 #EXTINF:-1 tvg-name="Euronews Deutsch Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" tvg-id="EuronewsGerman.fr" group-title="Germany",Euronews Deutsch Ⓨ
 https://www.youtube.com/euronewsde/live
-#EXTINF:-1 tvg-id="BR24Sport" group-title="Sport",BR24 Sport Live
+#EXTINF:-1 tvg-id="BR24Sport" tvg-name="BR24 Sport" tvg-logo="https://img.br.de/e39cf21b-b745-4fce-835b-0254e4b3821c.jpeg?rect=0%2C0%2C958%2C958&_v=1667831744308&w=320&q=85" group-title="Sport",BR24 Sport Live
 https://brlive-lh.akamaihd.net/i/brlive_1@119899/master.m3u8
 #EXTINF:-1 tvg-name="KiKa Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/640px-Kika_2012.svg.png" tvg-id="KIKA.de" group-title="Germany",KiKa Ⓖ
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
