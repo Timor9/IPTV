@@ -31,6 +31,22 @@ https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-name="Welt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Welt_TV_Logo_2016.svg/640px-Welt_TV_Logo_2016.svg.png" tvg-id="Welt.de" group-title="Germany",Welt
 https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
+#EXTINF:-1 tvg-id="ntv.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Logo_ntv.png" group-title="News",n-tv
+https://ntv-lh.akamaihd.net/i/ntv_live@350877/master.m3u8
+#EXTINF:-1 tvg-id="prosieben.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/ProSieben_2015_logo.svg" group-title="Entertainment",ProSieben
+https://prosieben-lh.akamaihd.net/i/prosieben_de@387545/master.m3u8
+#EXTINF:-1 tvg-id="rtl.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/RTL_Logo_2021.svg" group-title="Entertainment",RTL
+https://rtl-lh.akamaihd.net/i/rtl_de@350872/master.m3u8
+#EXTINF:-1 tvg-id="rtl2.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/RTL_ZWEI_Logo_2019.svg" group-title="Entertainment",RTLZWEI
+https://rtl2-lh.akamaihd.net/i/rtl2_de@350875/master.m3u8
+#EXTINF:-1 tvg-id="sat1.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Sat.1_2021.svg" group-title="Entertainment",Sat.1
+https://sat1-lh.akamaihd.net/i/sat1_de@387546/master.m3u8
+#EXTINF:-1 tvg-id="superrtl.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Super_RTL_2021_logo.svg" group-title="Kids",Super RTL
+https://superrtl-lh.akamaihd.net/i/superrtl_de@350876/master.m3u8
+#EXTINF:-1 tvg-id="ToggoPlus.de" tvg-logo="https://static.epg.best/de/TOGGOplus.de.png" group-title="Kids",Toggo Plus
+http://eu-ams.bestvideostreaming.is/4141/index.m3u8
+#EXTINF:-1 tvg-id="RTLup.de" tvg-logo="http://static.epg.best/de/RTLup.de.png" group-title="Entertainment",RTLup
+http://185.234.217.55:8001/play/a0ds/index.m3u8
 #EXTINF:-1 tvg-name="ZDFinfo Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ZDFinfo_2011.svg/640px-ZDFinfo_2011.svg.png" tvg-id="ZDFinfo.de" group-title="Germany",ZDFinfo Ⓖ
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="ZDFneo Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ZDFneo2017_Logo.svg/569px-ZDFneo2017_Logo.svg.png" tvg-id="ZDFneo.de" group-title="Germany",ZDFneo Ⓖ
