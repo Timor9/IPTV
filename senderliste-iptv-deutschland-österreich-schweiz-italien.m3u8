@@ -15,8 +15,13 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1 tvg-name="DELUXE MUSIC RAP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Deluxe_Rap_Logo_2023.svg/666px-Deluxe_Rap_Logo_2023.svg.png" tvg-id="DeLuxeMusicRap.de" group-title="Germany",DELUXE MUSIC RAP
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:-1 tvg-name="SCHLAGER DELUXE" tvg-logo="https://i.imgur.com/YPpgUOg.png" tvg-id="SchlagerDeluxe.de" group-title="Germany",SCHLAGER DELUXE
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/ProSieben_Logo_2019.svg" group-title="Deutschland",ProSieben
+http://tvheadend.streams.iptv-org.info/streams/prosieben.m3u8
+#EXTINF:-1 tvg-id="RTLsuper.de" tvg-name="RTL Super" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/RTL_Super_Logo.svg" group-title="Deutschland",RTL Super
+http://tvheadend.streams.iptv-org.info/streams/rtl_super.m3u8
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/RTL_Logo_2017.svg" group-title="Deutschland",RTL
+http://tvheadend.streams.iptv-org.info/streams/rtl.m3u8#EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Sat.1_Logo_2019.svg" group-title="Deutschland",Sat.1
+http://tvheadend.streams.iptv-org.info/streams/sat1.m3u8
 #EXTINF:-1 tvg-name="Euronews Deutsch Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" tvg-id="EuronewsGerman.fr" group-title="Germany",Euronews Deutsch Ⓨ
 https://www.youtube.com/euronewsde/live
 #EXTINF:-1 tvg-id="BR24Sport" tvg-name="BR24 Sport" tvg-logo="https://img.br.de/e39cf21b-b745-4fce-835b-0254e4b3821c.jpeg?rect=0%2C0%2C958%2C958&_v=1667831744308&w=320&q=85" group-title="Sport",BR24 Sport Live
@@ -898,3 +903,4 @@ http://190.2.155.162/RSI1/index.m3u8
 http://190.2.155.162/RSI2/index.m3u8
 #EXTINF:-1 tvg-name="Teleticino" tvg-logo="https://i.imgur.com/zm2ruqz.png" tvg-id="TeleTicino.ch" group-title="Switzerland",Teleticino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
+
