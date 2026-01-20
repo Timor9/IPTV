@@ -1,0 +1,87 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="3sat.de@HD",3sat HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
+#EXTINF:-1 tvg-id="arte.de@HD",arte HD
+https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="BRFernsehen.de@Sud",BR Fernsehen Sud (1080p)
+https://viamotionhsi.netplus.ch/live/eds/brhdsud/browser-HLS8/brhdsud.m3u8
+#EXTINF:-1 tvg-id="DeluxeMusic.de@SD",Deluxe Music (720p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.de@SD",Disney Channel (576p)
+https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
+#EXTINF:-1 tvg-id="DMAX.de@SD",DMAX (720p)
+https://stream-dmax.iptv-playoutcenter.de/dmax/dmax.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport.de@SD",Eurosport (720p)
+https://eurosport-hls.iptv-playoutcenter.de/eurosport/eurosport.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="FCBayern.tv@SD",FC Bayern TV (720p)
+https://fc-bayern-live.iptv-playoutcenter.de/fcbayern/fcbayern.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ntv.de@SD",n-tv (1080p)
+https://viamotionhsi.netplus.ch/live/eds/ntv/browser-HLS8/ntv.m3u8
+#EXTINF:-1 tvg-id="DasErste.de@SD",Das Erste (1080p)
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+#EXTINF:-1 tvg-id="ORF1.de@SD",ORF 1 (720p)
+https://orf1-hls.iptv-playoutcenter.de/orf1/orf1.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ORF2.de@SD",ORF 2 (720p)
+https://orf2-hls.iptv-playoutcenter.de/orf2/orf2.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ORF3.de@SD",ORF 3 (720p)
+https://orf3-hls.iptv-playoutcenter.de/orf3/orf3.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ORFSport.de@SD",ORF Sport (720p)
+https://orfsport-hls.iptv-playoutcenter.de/orfsport/orfsport.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ProSieben.de@SD",ProSieben (720p)
+https://prosieben-hls.iptv-playoutcenter.de/prosieben/prosieben.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="RTL.de@SD",RTL (720p)
+https://rtl-hls.iptv-playoutcenter.de/rtl/rtl.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Sat1.de@SD",Sat.1 (720p)
+https://sat1-hls.iptv-playoutcenter.de/sat1/sat1.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Sixx.de@SD",sixx (720p)
+https://sixx-hls.iptv-playoutcenter.de/sixx/sixx.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="VOX.de@SD",VOX (720p)
+https://vox-hls.iptv-playoutcenter.de/vox/vox.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Welt.de@SD",Welt (720p)
+https://welt-hls.iptv-playoutcenter.de/welt/welt.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ZDF.de@SD",ZDF (1080p)
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:-1 tvg-id="Phoenix.de@SD",phoenix (720p)
+https://phoenix-hls.iptv-playoutcenter.de/phoenix/phoenix.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Kika.de@SD",KiKA (720p)
+https://kika-hls.iptv-playoutcenter.de/kika/kika.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="WetterTV.de@SD",wetter.tv (720p)
+https://wettertv-hls.iptv-playoutcenter.de/wettertv/wettertv.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TRT1.de@SD",TRT 1 (720p)
+https://trt1-hls.iptv-playoutcenter.de/trt1/trt1.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Rai1.it@SD",Rai 1 (720p)
+https://rai1-hls.iptv-playoutcenter.de/rai1/rai1.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Rai2.it@SD",Rai 2 (720p)
+https://rai2-hls.iptv-playoutcenter.de/rai2/rai2.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Rai3.it@SD",Rai 3 (720p)
+https://rai3-hls.iptv-playoutcenter.de/rai3/rai3.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it@SD",Rai News (720p)
+https://rainews-hls.iptv-playoutcenter.de/rainews/rainews.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="RAI Sport.it@SD",Rai Sport (720p)
+https://raisport-hls.iptv-playoutcenter.de/raisport/raisport.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="DAZN1.de@SD",DAZN 1 (720p)
+https://dazn1-hls.iptv-playoutcenter.de/dazn1/dazn1.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="DAZN2.de@SD",DAZN 2 (720p)
+https://dazn2-hls.iptv-playoutcenter.de/dazn2/dazn2.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="DynATV.de@SD",Dyn. ATV (720p)
+https://dynatv-hls.iptv-playoutcenter.de/dynatv/dynatv.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TRT.de@SD",TRT (720p)
+https://trt-hls.iptv-playoutcenter.de/trt/trt.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ServusTVDE.de@SD",Servus TV DE (720p)
+https://servustvde-hls.iptv-playoutcenter.de/servustvde/servustvde.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ServusTVAT.de@SD",Servus TV AT (720p)
+https://servustvat-hls.iptv-playoutcenter.de/servustvat/servustvat.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="3sat.de@SD",3sat (720p)
+https://3sat-hls.iptv-playoutcenter.de/3sat/3sat.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Phoenix.de@SD",phoenix (720p)
+https://phoenix-hls.iptv-playoutcenter.de/phoenix/phoenix.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ORFSportDE.de@SD",ORF Sport DE (720p)
+https://orfsportde-hls.iptv-playoutcenter.de/orfsportde/orfsportde.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ORFSportAT.de@SD",ORF Sport AT (720p)
+https://orfsportat-hls.iptv-playoutcenter.de/orfsportat/orfsportat.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Sport1.de@SD",Sport1 (720p)
+https://sport1-hls.iptv-playoutcenter.de/sport1/sport1.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="WetterComTV.de@SD",wetter.com TV (720p)
+https://wettercomtv-hls.iptv-playoutcenter.de/wettercomtv/wettercomtv.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Kika.de@SD",KiKA (720p)
+https://kika-hls.iptv-playoutcenter.de/kika/kika.stream_all/playlist.m3u8
